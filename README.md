@@ -30,7 +30,7 @@
 
 1. 🔀 Clone the repository:
    ```bash
-   git clone https://github.com/parassawal/llama-based-ai-bot.git
+   git clonehttps://github.com/Janahvi21/offline-chatbot.git
    ```
 
 2. Navigate to the 🏰 project directory:
